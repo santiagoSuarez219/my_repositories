@@ -2,7 +2,7 @@
 
 # Proyectos
 ## Aplicativo Ecout
-1. [Backend con NestJS](https://github.com/santiagoSuarez219/aplicativo_ecout_backend)
+1. [Backend con NestJS](https://github.com/santiagoSuarez219/ecout_backend)
 2. [FrontEnd con Vite, React y Boostrap](https://github.com/santiagoSuarez219/ecout_frontend)
 
 ## Smartgrow
