@@ -51,4 +51,5 @@
 
 # Frontend
 ## CSS
-1. [Tailwind](https://github.com/santiagoSuarez219/tailwind)
+1. [Fundamentos de HTML y CSS](https://github.com/santiagoSuarez219/fundamentos_de_html_css)
+2. [Tailwind](https://github.com/santiagoSuarez219/tailwind)
