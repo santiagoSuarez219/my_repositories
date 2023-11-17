@@ -6,19 +6,13 @@
 2. [FrontEnd con Vite, React y Boostrap](https://github.com/santiagoSuarez219/ecout_frontend)
 
 ## Smartgrow
-1. [ESP-IDF](https://github.com/santiagoSuarez219/smartgrow_esp_idf)
 2. [Backend con Node JS](https://github.com/Juanmorales177809/smartgrow_backend) 
 3. [Backend con Nest](https://github.com/santiagoSuarez219/smartgrow-backend-nest)
 4. [FrontEnd con React JS](https://github.com/Juanmorales177809/smartgrow_frontend)
 
 
-# Configuraciones de entorno de trabajo segun SO
-1. [Configuracion entorno de trabajo](https://github.com/santiagoSuarez219/configuracion_de_entorno_de_trabajo)
-
 # Microcontradores
 ## ESP32
-### ESP - IDF
-1. [Proyecto con ESP-IDF](https://github.com/santiagoSuarez219/esp-idf)
 
 
 # Lenguajes de programacion 
@@ -53,3 +47,5 @@
 ## CSS
 1. [Fundamentos de HTML y CSS](https://github.com/santiagoSuarez219/fundamentos_de_html_css)
 2. [Tailwind](https://github.com/santiagoSuarez219/tailwind)
+3. [Fundamentos de React](https://github.com/santiagoSuarez219/fundamentos_de_react_js)
+4. [Curso de React.js con Vite.js y TailwindCSS](https://github.com/santiagoSuarez219/apuntes_react_vite_tailwind)
