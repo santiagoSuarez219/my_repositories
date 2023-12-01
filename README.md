@@ -49,3 +49,6 @@
 2. [Tailwind](https://github.com/santiagoSuarez219/tailwind)
 3. [Fundamentos de React](https://github.com/santiagoSuarez219/fundamentos_de_react_js)
 4. [Curso de React.js con Vite.js y TailwindCSS](https://github.com/santiagoSuarez219/apuntes_react_vite_tailwind)
+
+# Material Academico
+1. [Programacion orientada a objetos](https://github.com/santiagoSuarez219/POO)
