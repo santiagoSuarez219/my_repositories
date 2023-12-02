@@ -7,7 +7,7 @@
 
 ## Smartgrow
 2. [Backend con Node JS](https://github.com/Juanmorales177809/smartgrow_backend) 
-3. [Backend con Nest](https://github.com/santiagoSuarez219/smartgrow-backend-nest)
+3. [Backend con Nest](https://github.com/santiagoSuarez219/smartgrow_backend_nest)
 4. [FrontEnd con React JS](https://github.com/Juanmorales177809/smartgrow_frontend)
 
 
