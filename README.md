@@ -52,3 +52,4 @@
 
 # Material Academico
 1. [Programacion orientada a objetos](https://github.com/santiagoSuarez219/POO)
+2. [React, Tailwind y Vite](https://github.com/santiagoSuarez219/apuntes_react_vite_tailwind)
